@@ -1,6 +1,6 @@
 # <p align="center"> D3 - Data Journalism and D3 </p>
 
-<p align="center"> ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)</p>
+# <p align="center"> ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)</p>
 
 ## Background
 
@@ -26,7 +26,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### Core Assignment: D3 Dabbler
 
-![4-scatter](Assets/Images/4-scatter.jpg)
+![4-scatter](assets/Images/4-scatter.jpg)
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
