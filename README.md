@@ -26,7 +26,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### Core Assignment: D3 Dabbler
 
-# ![4-scatter](Images/4-scatter.jpg)
+![4-scatter](Images/4-scatter.jpg)
 
 Create a scatter plot between two of the data variables, `Healthcare vs. Poverty`.
 
@@ -61,23 +61,32 @@ While the ticks on the axes allow us to infer approximate values for each circle
 * Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
 
 - - -
+## Tools used  --  NEEDS TO BE UPDATED
 
-### Assessment
+* D3.js
 
-Your final product will be assessed on the following metrics:
+* SVG elements
 
-* Creation of a **new** repository on GitHub called `D3-Challenge` (note the kebab-case). Do not add to an already existing repo.
+* Javascript
 
-* Completion of all steps in the core assignment
+* HTML
 
-* Coherency of scatter plot (labels, ticks)
+* CSS
 
-* Visual attraction
+* Json
 
-* Professionalism
+* GitHub Pages
 
-**Good luck!**
+* GitHub
 
-### Copyright
+* console.log
 
-Trilogy Education Services © 2019. All Rights Reserved.
+## Author
+
+* **Michael Davis** - [Davis1776](https://github.com/Davis1776)
+
+## Acknowledgments
+
+* [D3js.org documentation](https://github.com/d3/d3/wiki) was used to help build the plots.
+* Hat tip to Triology Education Services for providing the data source and project guidelines.
+* Butler University Data Analytics and Visualization Executive Education program, instructors, and teammates for assistance.
