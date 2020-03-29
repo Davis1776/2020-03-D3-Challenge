@@ -89,4 +89,4 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 * [D3js.org documentation](https://github.com/d3/d3/wiki) was used to help build the plots.
 * Hat tip to Triology Education Services for providing the data source and project guidelines.
-* Butler University Data Analytics and Visualization Executive Education program, instructors, and teammates for assistance.
+* Thank you Butler University Data Analytics and Visualization Executive Education program, instructors, and teammates for assistance.
